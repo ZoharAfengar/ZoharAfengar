@@ -6,6 +6,7 @@ individual and collaborative teamwork skills. And I’m currently improves my ab
 <br>
 - 👀 I’m looking to join a leading tech company that will
 allow me to express myself and develop my skillset while contributing to the team’s effort.
+<br>
 - 📫 You can reach me via Linkedin or email:
 Linkedin - Zohar Afengar - https://www.linkedin.com/in/zohar-afengar-2a8964196/
 Email - zoharafnjar@gmail.com 

@@ -2,7 +2,8 @@
 <h3>💞️ Recently graduated B.Sc. in Computer Science and Entrepreneurship and made it to the
 dean’s list.</h3>
 - 🌱 I’m Autodidact, curious, with high motivation to learn and improve. A fast learner with
-individual and collaborative teamwork skills. And I’m currently improves my ability as a **full stack developer.
+individual and collaborative teamwork skills. And I’m currently improves my ability as a **full stack developer**.
+<br>
 - 👀 I’m looking to join a leading tech company that will
 allow me to express myself and develop my skillset while contributing to the team’s effort.
 - 📫 You can reach me via Linkedin or email:
